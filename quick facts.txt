@@ -1,0 +1,26 @@
+<html>
+<head>
+		<title> Quick facts about chocolate </title>
+		<style>
+			h1 { font-size: 400%;
+				color:brown;}
+			p { font-size: 150%}
+			a:link {color: black;}
+		</style>
+	</head>
+<body>
+		<h1> Quick facts about chocolate </h1>
+		<p><b>
+		<img src="chocolate_hero1-d62e5444a8734f8d8fe91f5631d51ca5.jpg" align="right" width="700" height="500">
+		</b></p><ol><b>
+			<li>The U.S.A is the largest producer of chocolate (dark as well as normal).
+			</li><li>65–75% of cocoa in chocolates is the most preferred range.
+			</li><li>Australia has the highest median ratings (3.5), while U.K and Ecuador have the smallest (3).
+			</li><li>Italy, Australia, and Switzerland have the best ratings for dark chocolate, and Canada and Ecuador for normal chocolate.
+			</li><li>Italy is the only country with ratings higher than 4 and it’s for dark chocolate.
+			</li></b><li><b>The liking for dark chocolate has increased over the years whereas it’s the same for normal chocolate.<br>
+		<a href="index.html">Back to homepage</a>
+		</b></p>
+	
+</li></ol></body>
+</html>

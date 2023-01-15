@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title> How does the production of chocolate vary based on type (normal or dark)? </title>
+		<style>
+			h1 { font-size: 400%;
+				color:brown;}
+			p { font-size: 150%}
+			a:link {color: black;}
+		</style>
+	</head>
+	<body>
+		<h1> How does the production of chocolate vary based on type (normal or dark)? </h1>
+		<p><b>
+		<img src="1_ipKBNgfkXqMI96MTcDzyFQ.webp" align="right">
+		The results for this bar chart are almost the same as that of the bar chart for the production of chocolate 
+		all over the world. As we can see, the production of dark chocolate is more than that of normal chocolate everywhere. 
+		Belgium is the smallest producer of normal chocolate and the U.S.A is the largest producer of normal as well as dark chocolate.<br></p>
+		<p>
+		<a href="index.html">Back to homepage</a>
+		</b>
+	</body>
+</html>
